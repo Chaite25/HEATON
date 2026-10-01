@@ -666,8 +666,8 @@ section.tab-section {
 
 
 .tab-section p a {
-    color: #fff;
-    font-weight: 600;
+    color: #000;
+    font-weight: bold;
     text-decoration: underline;
 }
 
